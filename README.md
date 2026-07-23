@@ -1,7 +1,7 @@
 <img src="https://cdn.phototourl.com/free/2026-07-23-8fefb63e-e1a8-43fa-8540-d03e8ac05166.png" alt="Emerald Divider Line">
 
 <br>
-<img src="https://i.ibb.co/pjTMNq1G/minecraft-text-8.png" width="200px" alt="Release v1.0.0">
+<img src="https://raw.githubusercontent.com/leopoldoronaldi/bildlink/refs/heads/main/minecraft-text%20(8).png?token=GHSAT0AAAAAAEBHGEB7G6GQD7DKYRE7QHPQ2TCHI7Q" width="200px" alt="Release v1.0.0">
 <br>
 
 Welcome to the first official release of **Infinite Villager Discounts**! 
