@@ -20,5 +20,15 @@ In modern Vanilla Minecraft, Mojang added a strict cap to villager curing. This 
 * **Exploit Fix:** Properly re-calculates emerald values after every single cure without causing any trading UI glitches or freezes.
 * **Server Sync:** Ensures that the removed cap is perfectly synced between the server and all connected players with zero desync.
 <br>
+<br>
+<img src="https://cdn.phototourl.com/member/2026-07-24-1cca2be4-c663-4064-873f-87716dcefa90.png" alt="Emerald Divider Line">
+<br>
+
+<!-- Hier kommt der Dankeschön-Bereich mit Herz -->
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-07-24-c574eead-8eb9-42ff-8844-0505999eae7c.png" width="200px" alt="Minecraft Heart">
+  <br>
+  Thanks to <strong>leopoldoronaldi</strong> for Reporting the Bug
+</p>
 
 <img src="https://cdn.phototourl.com/member/2026-07-24-1cca2be4-c663-4064-873f-87716dcefa90.png" alt="Emerald Divider Line">
