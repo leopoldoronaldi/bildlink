@@ -1,24 +1,27 @@
-<img src="https://cdn.phototourl.com/free/2026-07-23-8fefb63e-e1a8-43fa-8540-d03e8ac05166.png" alt="Emerald Divider Line">
-
-<br>
-<img src="https://i.ibb.co/pjTMNq1G/minecraft-text-8.png" width="200px" alt="Release v1.0.0">
+<img src="https://cdn.phototourl.com/member/2026-07-24-2f7712a5-4d9f-42f8-87e8-1aa919f7e6cf.png" alt="Emerald Divider Line">
 <br>
 
-Welcome to the first official release of **Infinite Villager Discounts**! 
+<img src="https://cdn.phototourl.com/member/2026-07-24-7259cbb4-5d1c-4fff-b0f8-694e50920ad6.png" width="700px" alt="Release v1.1.0">
+<br>
 
-<img src="https://cdn.phototourl.com/free/2026-07-23-94c1e1c4-28bd-428c-8eb0-8ca7edbe69cd.png" width="130px" alt="Features">
+This update introduces the highly requested feature to harvest spawners in Survival mode using Silk Touch, safely controlled via a new game rule.
+<br>
 
-* **Feature:** Restores the classic Minecraft trading mechanics by entirely removing the modern capping on curing discounts.
-* **Stacking:** You can now cure zombie villagers multiple times to stack your discounts all the way down to a single Emerald.
-* **Compatibility:** 100% server-side compatible. Clients do not need to install this mod to join your server.
+<img src="https://cdn.phototourl.com/member/2026-07-24-7abc1543-16ec-4e78-bdcd-9dfa0cbefe02.png" width="200px" alt="New Features">
+<br>
 
-<img src="https://cdn.phototourl.com/free/2026-07-23-8fefb63e-e1a8-43fa-8540-d03e8ac05166.png" alt="Emerald Divider Line">
+<ul>
+  <li>
+    <strong>Silk Touch Harvesting:</strong> Spawners can now be mined and dropped as items when using the Silk Touch enchantment!
+    <br><br>
+    <blockquote>
+      <strong>⚠️ Note:</strong> This feature is <strong>disabled by default</strong> to preserve the vanilla experience. You must manually enable it using the new command:
+      <br><br>
+      <code>/gamerule spawner_drop_with_silk_touch true</code>
+    </blockquote>
+  </li>
+</ul>
+<br>
 
-<p align="center">
-  <a href="https://github.com/leopoldoronaldi/Infinite-Villager-Discounts">
-    <img src="https://plain-weur-prod-public.komododecks.com/202607/23/LCb4815554PWiYP8tKte/image.png" width="200px" alt="GitHub Button">
-  </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/infinite-villager-discounts">
-    <img src="https://plain-weur-prod-public.komododecks.com/202607/23/VeSAptUuVWINmHI6C6eH/image.png" width="200px" alt="CurseForge Button" hspace="10">
-  </a>
-</p>
+<img src="https://cdn.phototourl.com/member/2026-07-24-2f7712a5-4d9f-42f8-87e8-1aa919f7e6cf.png" alt="minecraft Spawner Line">
+<br>
